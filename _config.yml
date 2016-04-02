@@ -1,6 +1,6 @@
 name: RyanJForth
 favicon: null
-layout_spectrum: 0.857
+layout_spectrum: 0.86092
 typography_spectrum: 0.70718
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#313640'
+    - '#b35a26'
+    - '#f68831'
+    - '#a28659'
+    - '#fdfffb'
   brandStrength: 0.75
   lightness: 0.25
   saturation: 0
