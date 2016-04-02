@@ -1,0 +1,28 @@
+name: RyanJForth
+favicon: null
+layout_spectrum: 0.2263407337013632
+typography_spectrum: 0.8493354371748865
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5672087888233364
+  lightness: 0.844381652539596
+  saturation: 0.24829637492075562
+  rhythmicContrast: 0.9193226194474846
+purpose: []
